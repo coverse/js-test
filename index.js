@@ -27,7 +27,7 @@ describe('object operations', () => {
     assert.equal(actual, expected)
   })
 
-  it('should extract only the results from Mondays', () => {
+  it('should extract only the results from Tuesdays', () => {
     const actual = null // TODO: #3
     const expected = {
       '2019-01-01': 3869.47,
