@@ -17,7 +17,7 @@ Your task is to correct any errors and make all the tests pass.
 
 ### Setting up
 
-  - Visit [coindesk.com/api](coindesk). Find "Historical BPI data" at the bottom of the page with instructions on composing the query
+  - Visit [coindesk](http://web.archive.org/web/20210205071604/https://www.coindesk.com/coindesk-api). Find "Historical BPI data" at the bottom of the page with instructions on composing the query
   - Make a request for prices between January 1, 2019 - January 31, 2019
   - Populate the params to complete the request
 
